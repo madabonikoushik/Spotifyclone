@@ -14,7 +14,9 @@ Social Features: Foster a sense of community by incorporating social features su
 Responsive Design: Ensure a seamless experience across various devices and screen sizes with a responsive and intuitive user interface.
 Why Choose SpotifyClone?
 Video demo of the Clone:
-Uploading Spotify - Web Player_ Music for everyone - Google Chrome 2024-03-18 19-57-10.mp4…
+https://github.com/madabonikoushik/Spotifyclone/assets/128968075/85276186-f7c5-4a91-a70f-66ae7f7f8d63
+
+
 Open Source: SpotifyClone is completely open-source, allowing developers to study, modify, and contribute to the codebase freely.
 Customizable: Tailor SpotifyClone to suit your specific requirements by extending its features or integrating additional functionalities.
 Learning Resource: Whether you're interested in backend development, frontend design, or DevOps practices, SpotifyClone serves as an educational resource for honing your skills in various areas of software development.
