@@ -28,4 +28,4 @@ Clone the forked repository to your local machine.
 Set up the development environment by following the provided documentation.
 Start exploring the codebase and experimenting with different features.
 Contribute back to the project by fixing bugs, adding new features, or improving documentation.
-Join us in building the next generation of music streaming platforms with SpotiClone on GitHub! Let's create something extraordinary together
+Join us in building the next generation of music streaming platforms with SpotifyClone on GitHub! Let's create something extraordinary together
